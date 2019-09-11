@@ -9,5 +9,8 @@
         <module name="leyou-config" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leyou-config" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
